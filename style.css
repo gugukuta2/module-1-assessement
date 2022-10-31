@@ -1,0 +1,17 @@
+h1{
+    color:rgb(0, 109, 128)
+}
+
+table{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color:#a62680
+}
+
+th{
+    font-weight: 800;
+    background-color:#a62646 ;
+    color: #856363;
+}
